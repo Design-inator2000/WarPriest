@@ -1,0 +1,13 @@
+War Priest V2.0 Patch Notes
+
+Fixes:
+-Player was able to "climb the wall" due to breaks in wall collision box
+-Player could only enter second part of first hallway in one spot; can now simply walk to edge of screen to initiate transition
+
+New features:
+-Player can speak to the TechPriest in the Guardian room to learn location of items, and track which items they have collected
+
+Improvements:
+-Reworked visuals
+-Dialogue reworked: npcs will give player vital information on first interaction, and have world building dialogue if interacted with again
+-When npcs mention collectable items, an image of the sprite appears in the text box
